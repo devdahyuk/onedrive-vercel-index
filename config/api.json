@@ -2,7 +2,7 @@
   "clientId": "3060e61b-a555-4cce-8a17-9bf9f9082f6b",
   "obfuscatedClientSecret": "U2FsdGVkX1+zxPw2kAz4cPc4EIMuVVsS0GlcvMBS23sWI3GRjcjjzz221RrjEaCj073dY0jjltkW3SqkUeh2RQ==",
   "redirectUri": "http://localhost:3000",
-  "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
+  "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0",
   "driveApi": "https://graph.microsoft.com/v1.0/me/drive",
   "scope": "user.read files.read.all offline_access",
   "directLinkRegex": "public[.].*[.]files[.]1drv[.]com"
