@@ -2,7 +2,7 @@
   "userPrincipalName": "backup@wbwuo.onmicrosoft.com",
   "icon": "/icons/128.png",
   "title": "OneDrive Index",
-  "baseDirectory": "/",
+  "baseDirectory": "/Share",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
